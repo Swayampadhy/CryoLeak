@@ -61,7 +61,6 @@
     <Compile Include="Commands\Shell.cs" />
     <Compile Include="Commands\ShellcodeInject.cs" />
     <Compile Include="Commands\StealToken.cs" />
-    <Compile Include="Commands\TestCommand.cs" />
     <Compile Include="Commands\WhoAmI.cs" />
     <Compile Include="Extensions.cs" />
     <Compile Include="Generic.cs" />
