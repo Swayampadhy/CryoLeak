@@ -12,12 +12,12 @@ Services connecting the user-API to the implant using services made by **Depende
 
 Currently the following commands can be executed by the agent -
 
-1. `pwd`                - Print current directory path
-2. `cd`                 - Change directory
-3. `ls`                 - Print directory contents
-4. `mkdir` and `rmdir`  - Create and remove directory
-5. `ps`                 - Enumerate processes
-6. `whoami`             - Prints current user
+1. `pwd`               
+2. `cd`                
+3. `ls`               
+4. `mkdir` and `rmdir` 
+5. `ps`
+6. `whoami`            
 7. `shell`              
 8. `run`                
 9. `execute-assembly`   
